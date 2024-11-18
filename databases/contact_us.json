@@ -1,0 +1,15 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'contact_us'
+// contact_us.con_data
+
+[{"id": 8,"fr_name": "yash","la_name": "patel","email_id": "yash@gmail.com","sub": "hehe","mess": "hellp"}, {"id": 9,"fr_name": "Kaushal","la_name": "Gujjar","email_id": "kaushalgujjar@gmail.com","sub": "review","mess": "very nice medical shop"}, {"id": 10,"fr_name": "yash","la_name": "Gujjar","email_id": "yashg@gmail.com","sub": "online store","mess": "nice store...."}]// contact_us.medicines
+
+[{"id": 1,"medicine_name": "Kofol Chewable Tablet","description": "Charak Pharma Kofol Chewable Tablet for Cough, Sore Throat | Ayurvedic Tablets For Seasonal Cough & Bad Breath Each 60 Tablet (Pack of 3)","price": 122,"image": "med_1.jpg"}, {"id": 2,"medicine_name": "Collasmart ","description": "Collasmart UC-II Undenatured Type II Collagen Capsules | 45 Capsules (Pack of 1) |Daily Protein Supplement for Men & Women |Sourced from USA |Promotes Cartilage Repair |Strengthens & Lubricates Joints","price": 995,"image": "med_2.jpg"}, {"id": 3,"medicine_name": "Herbals Gokshura","description": "Indications: depressed libido; erectile dysfunction, Each capsule contains 250mg extract of Gokshura, ","price": 200,"image": "med_3.jpg"}, {"id": 4,"medicine_name": "Toothsi Spark Teeth","description": "Toothsi Spark Teeth Whitening Pen | 2ml | 30 Minutes Stain Remover Portable Pen | Teeth Whitening Pen with Long-Lasting Effect | Safe Advanced Formulation | Whiter Smiles On The Go","price": 560,"image": "med_4.jpg"}]// contact_us.user_data
+
+[{"id": 1,"first_name": "yash","last_name": "patel","addre": "jujwa","city": "valsad","mobile_no": "9876543210","email_id": "yash@gmail.com","pwd": "123456"}, {"id": 2,"first_name": "kaushal","last_name": "gujjar","addre": "valsad","city": "valsad","mobile_no": "9876451203","email_id": "kaushal@gmail.com","pwd": "124578"}]// contact_us.user_det
+
+[{"id": 1,"email_id": "admin@pharma.com","password": "123456","role": "ADMIN"}, {"id": 2,"email_id": "kaushal@gmail.com","password": "124578","role": "CUSTMOER"}]
